@@ -1,3 +1,3 @@
-## Travel Website
+## SPA Website
 
-![screenshot](./images/screenshot.png)
+
